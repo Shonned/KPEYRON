@@ -1,0 +1,21 @@
+@media screen and (max-width:593px) {
+    #nav {padding: 15px 16px;}
+    .nav-item-group {display: none !important;}
+    .nav-logo {margin: auto !important;}
+    #header {
+        padding-top: 50px;
+        margin-bottom: 250px;
+    }
+    #header h1 {line-height: 65px;}
+    #header .text {padding-left: 15px;}
+    .icon-scroll {margin-top: 60px;}
+    #services {display: none;}
+    .service {padding: 50px;}
+    .service .service-title {padding-bottom: 10px;}
+    .service h1 {
+        line-height: 55px;
+        padding-bottom: 10px;
+    }
+    .service span {padding-bottom: 10px;}
+    .icon-group {margin-top: 15px;}
+}
