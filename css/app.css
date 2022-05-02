@@ -151,7 +151,7 @@ a {
 
 #services img {
     color: #999999;
-    width: 160px;
+    max-width: 160px;
     margin-right: 40px;
     cursor: pointer;
     transition: all .3s;
