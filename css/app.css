@@ -186,11 +186,22 @@ a {
     line-height: 15px;
 }
 
-.service .service-title-2 {
-    color: #0066ff;
+.service .service-title, .service .service-title-2, .service .service-title-3, .service .service-title-4 {
     font-size: 20px;
     font-weight: 500;
-    line-height: 15px;
+    line-height: 22px;
+}
+
+.service .service-title-2 {
+    color: #0066ff;
+}
+
+.service .service-title-3 {
+    color: #F98F40;
+}
+
+.service .service-title-4 {
+    color: #DB202C;
 }
 
 .service h1 {
